@@ -1,0 +1,37 @@
+body {
+  font-family: "PT Serif", serif;
+}
+.bg-yellow {
+  background-color: #ffc017;
+}
+
+.border-bottom-dark {
+  border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.btn-radius {
+  border-radius: 50px;
+}
+.float-right {
+  float: right;
+}
+.il {
+  letter-spacing: 1.5px;
+}
+.im {
+  text-transform: uppercase;
+}
+.ii {
+  font-weight: 700 !important;
+}
+.ec {
+  font-size: 16px;
+}
+.fi {
+  font-size: 30px;
+}
+.fj {
+  line-height: 36px;
+}
+.ij{
+font-size: 12px;
+}
